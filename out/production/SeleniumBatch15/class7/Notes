@@ -1,0 +1,8 @@
+Webdriver waits
+
+    1.Implicit
+    2.Explicit
+
+Implicit wait - it is a global wait and is going to wait the Webelement is found.
+
+Explicit wait --> is conditional wait that is going to wait until
